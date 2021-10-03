@@ -1,2 +1,2 @@
 # Python-cre
-Some projetcs i created while Learning Python
+Some projetcs I created while Learning Python with some hr=elp of source code..
