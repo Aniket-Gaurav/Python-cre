@@ -4,13 +4,13 @@
 from sketchify import sketch
  
 # Give the path of original image with file Name and Extension
-colored_image_path = "W:\Firefox/photo1620582104.jpeg"
+colored_image_path = "//select the image location you want to conver"
  
 # Give the path for saving sketch without file Name and Extension
-sketch_saving_path = 'W:\Firefox/'
+sketch_saving_path = '//location to save the converted file'
  
 # Give a Name to sketch Image
-sketch_name = 'sketch.jpg'
+sketch_name = '//rename image'
  
 # Now call the above variables in Below Method
 sketch.normalsketch(colored_image_path, sketch_saving_path, sketch_name)
