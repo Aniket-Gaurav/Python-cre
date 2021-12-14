@@ -1,4 +1,3 @@
- # Required Module:- pip install speedtest-cli
 
 import speedtest
 
