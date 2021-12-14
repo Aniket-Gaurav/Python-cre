@@ -1,4 +1,3 @@
-# Get Saved wifi passwords using Python
  
 import subprocess
  
