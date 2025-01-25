@@ -1,2 +1,2 @@
 # Python-cre
-Some projetcs I created while Learning Python with some help of source code..
+Few python projects to learn in fun way.
