@@ -21,7 +21,7 @@ for i in number:
         maximum_number = i
 
 # Print the maximum number
-print(f"The maximum number is: {maximum_number}")<<<<<<< Tabnine <<<<<<<
+print(f"The maximum number is: {maximum_number}")
 numbers = input("Enter list of numbers: ")#-
 number = numbers.split()#-
 # The code below takes a list of numbers as input, converts them to integers,#+
