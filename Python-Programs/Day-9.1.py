@@ -10,6 +10,7 @@ Student_marks = {
     "Grace": 95,
     "Henry": 82,
     "Ivy": 93,
+    "Jack": 70
 }
 
 # an empty dictionary to store the student grades
